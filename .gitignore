@@ -1,0 +1,9 @@
+.lock-waf_darwin_build
+.waf-1.7.0-9334f7e963bee5410f4fa28728feffdd
+build
+pebble_app.ld
+tools
+waf
+wscript
+include
+lib
