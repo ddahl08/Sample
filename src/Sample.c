@@ -1,5 +1,5 @@
 /*
- * Pebble Timer
+ * Sample
  * Copyright (C) 2013 Dirk Mika
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy of

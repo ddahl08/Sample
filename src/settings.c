@@ -2,7 +2,7 @@
 //  settings.c
 //
 //
-//  Created by Dirk Mika on 16.04.13.
+//  Created by Dirk Mika on 08.05.13.
 //
 //
 
