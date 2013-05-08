@@ -1,0 +1,31 @@
+
+{"friendlyVersion": "1.0",
+    "versionDefName": "APP_RESOURCES",
+    "media": [
+              {
+              "type": "png",
+              "defName": "IMAGE_MENU_ICON",
+              "file": "images/Sample.png"
+              },
+              {
+              "type": "png",
+              "defName": "IMAGE_BUTTON_UP",
+              "file": "images/up.png"
+              },
+              {
+              "type": "png",
+              "defName": "IMAGE_BUTTON_DOWN",
+              "file": "images/down.png"
+              },
+              {
+              "type": "png",
+              "defName": "IMAGE_BUTTON_SETUP",
+              "file": "images/setup.png"
+              },
+              {
+              "type": "png",
+              "defName": "IMAGE_SETTINGS_SAMPLE",
+              "file": "images/settings_sample.png"
+              }
+              ]
+}
